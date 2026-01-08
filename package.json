@@ -51,7 +51,8 @@
     "@stdlib/math-base-special-powf": "github:stdlib-js/math-base-special-powf#main",
     "@stdlib/math-base-special-roundf": "github:stdlib-js/math-base-special-roundf#main",
     "@stdlib/number-float64-base-to-float32": "^0.2.2",
-    "@stdlib/utils-library-manifest": "^0.2.2"
+    "@stdlib/utils-library-manifest": "^0.2.2",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
   },
   "devDependencies": {
     "@stdlib/console-log-each-map": "github:stdlib-js/console-log-each-map#main",
