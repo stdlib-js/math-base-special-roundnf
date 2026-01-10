@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-01-09)
+## Unreleased (2026-01-10)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`bfc8c3a`](https://github.com/stdlib-js/stdlib/commit/bfc8c3a7bcebf1a049c9e457ab440f540fd5c7a9) - **chore:** use one asterisk for license comment in TS files _(by Philipp Burckhardt)_
 -   [`5149a6b`](https://github.com/stdlib-js/stdlib/commit/5149a6b650b60568bd0df248c2a97a3d8ca2ca87) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`5cddadf`](https://github.com/stdlib-js/stdlib/commit/5cddadf2f755a8e623ca132a6a0aa91bf6a51fdc) - **chore:** clean-up _(by Athan Reines)_
 -   [`dafbda6`](https://github.com/stdlib-js/stdlib/commit/dafbda6d3b1b782596f643582a90c842026688aa) - **chore:** update to use correct type and match README.md _(by Philipp Burckhardt)_
