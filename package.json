@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/math-base-special-roundnf",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Round a single-precision floating-point number to the nearest multiple of 10^n.",
   "license": "Apache-2.0",
   "author": {
@@ -40,21 +40,21 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/constants-float32-max-base10-exponent": "github:stdlib-js/constants-float32-max-base10-exponent#main",
+    "@stdlib/constants-float32-max-base10-exponent": "^0.1.0",
     "@stdlib/constants-float32-max-safe-integer": "^0.2.2",
-    "@stdlib/constants-float32-min-base10-exponent": "github:stdlib-js/constants-float32-min-base10-exponent#main",
-    "@stdlib/constants-float32-min-base10-exponent-subnormal": "github:stdlib-js/constants-float32-min-base10-exponent-subnormal#main",
+    "@stdlib/constants-float32-min-base10-exponent": "^0.1.0",
+    "@stdlib/constants-float32-min-base10-exponent-subnormal": "^0.1.0",
     "@stdlib/math-base-assert-is-infinitef": "^0.2.2",
     "@stdlib/math-base-assert-is-nanf": "^0.2.2",
-    "@stdlib/math-base-napi-binary": "^0.3.0",
+    "@stdlib/math-base-napi-binary": "^0.3.1",
     "@stdlib/math-base-special-absf": "^0.2.2",
     "@stdlib/math-base-special-powf": "github:stdlib-js/math-base-special-powf#main",
     "@stdlib/math-base-special-roundf": "github:stdlib-js/math-base-special-roundf#main",
     "@stdlib/number-float64-base-to-float32": "^0.2.2",
-    "@stdlib/utils-library-manifest": "^0.2.2"
+    "@stdlib/utils-library-manifest": "^0.2.3"
   },
   "devDependencies": {
-    "@stdlib/console-log-each-map": "github:stdlib-js/console-log-each-map#main",
+    "@stdlib/console-log-each-map": "^0.1.0",
     "@stdlib/constants-float32-ninf": "^0.2.2",
     "@stdlib/constants-float32-pi": "^0.1.0",
     "@stdlib/constants-float32-pinf": "^0.2.2",
