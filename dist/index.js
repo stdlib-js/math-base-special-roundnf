@@ -1,5 +1,0 @@
-"use strict";var M=function(r,e){return function(){return e||r((e={exports:{}}).exports,e),e.exports}};var o=M(function(d,_){
-var f=require('@stdlib/math-base-assert-is-nanf/dist'),v=require('@stdlib/math-base-assert-is-infinitef/dist'),t=require('@stdlib/math-base-special-roundf/dist'),q=require('@stdlib/math-base-special-powf/dist'),X=require('@stdlib/math-base-special-absf/dist'),i=require('@stdlib/number-float64-base-to-float32/dist'),A=require('@stdlib/constants-float32-max-safe-integer/dist'),n=require('@stdlib/constants-float32-max-base10-exponent/dist'),I=require('@stdlib/constants-float32-min-base10-exponent/dist'),c=require('@stdlib/constants-float32-min-base10-exponent-subnormal/dist'),p=A+1,s=i(1e38),E=i(0),N=i(10);function P(r,e){var u,a;return r=i(r),f(r)||f(e)||v(e)?NaN:v(r)||r===E||e<c||X(r)>p&&e<=0?r:e>n?i(E*r):e<I?(u=q(N,-(e+n)),a=i(i(r*s)*u),v(a)?r:i(i(t(a)/s)/u)):(u=q(N,-e),a=i(r*u),v(a)?r:i(t(a)/u))}_.exports=P
-});var R=o();module.exports=R;
-/** @license Apache-2.0 */
-//# sourceMappingURL=index.js.map
