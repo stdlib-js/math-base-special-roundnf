@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import roundnf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-roundnf@deno/mod.js';
+import roundnf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-roundnf@v0.1.0-deno/mod.js';
 ```
 
 #### roundnf( x, n )
@@ -98,7 +98,7 @@ v = roundnf( 12368.0, 3 );
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@deno/mod.js';
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@deno/mod.js';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@deno/mod.js';
-import roundnf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-roundnf@deno/mod.js';
+import roundnf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-roundnf@v0.1.0-deno/mod.js';
 
 var x = uniform( 100, -50.0, 50.0, {
     'dtype': 'float32'
