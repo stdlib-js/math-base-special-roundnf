@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import roundnf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-roundnf@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/math-base-special-roundnf/tags). For example,
+
+```javascript
 import roundnf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-roundnf@v0.1.0-esm/index.mjs';
 ```
 
@@ -103,7 +108,7 @@ v = roundnf( 12368.0, 3 );
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@esm/index.mjs';
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
-import roundnf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-roundnf@v0.1.0-esm/index.mjs';
+import roundnf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-roundnf@esm/index.mjs';
 
 var x = uniform( 100, -50.0, 50.0, {
     'dtype': 'float32'
