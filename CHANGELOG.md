@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-08-27)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`b69f125`](https://github.com/stdlib-js/stdlib/commit/b69f125e64207b556cf745414f2d67b59758b514) - **docs:** add equations [(#14689)](https://github.com/stdlib-js/stdlib/pull/14689) _(by Karan Anand)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Karan Anand
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.1.1">
 
 ## 0.1.1 (2026-02-08)
