@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`99219fa`](https://github.com/stdlib-js/stdlib/commit/99219fa682a207664d34172e82133d857c39d506) - **test:** migrate `math/base/special/roundnf` to ULP-based assertions [(#15357)](https://github.com/stdlib-js/stdlib/pull/15357) _(by Philipp Burckhardt, Athan Reines)_
 -   [`c568729`](https://github.com/stdlib-js/stdlib/commit/c568729af2a4908e564647f15cadccc8ad62f59b) - **docs:** update Markdown equation elements _(by stdlib-bot)_
 -   [`e67a5aa`](https://github.com/stdlib-js/stdlib/commit/e67a5aad659d8f6623e4ab8ac94687a8586ea83a) - **docs:** update Markdown equation elements _(by stdlib-bot)_
 -   [`85f4853`](https://github.com/stdlib-js/stdlib/commit/85f48534ef6908bbcd982d48f1c5fbea3fb7aafd) - **docs:** update Markdown equation SVGs _(by stdlib-bot)_
@@ -27,9 +28,11 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Karan Anand
+-   Philipp Burckhardt
 
 </section>
 
