@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-19)
+## Unreleased (2026-09-21)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`48f3eda`](https://github.com/stdlib-js/stdlib/commit/48f3eda37d26a72e370cb10891b9966104735974) - **style:** add spaces [(#15370)](https://github.com/stdlib-js/stdlib/pull/15370) _(by Philipp Burckhardt)_
 -   [`99219fa`](https://github.com/stdlib-js/stdlib/commit/99219fa682a207664d34172e82133d857c39d506) - **test:** migrate `math/base/special/roundnf` to ULP-based assertions [(#15357)](https://github.com/stdlib-js/stdlib/pull/15357) _(by Philipp Burckhardt, Athan Reines)_
 -   [`c568729`](https://github.com/stdlib-js/stdlib/commit/c568729af2a4908e564647f15cadccc8ad62f59b) - **docs:** update Markdown equation elements _(by stdlib-bot)_
 -   [`e67a5aa`](https://github.com/stdlib-js/stdlib/commit/e67a5aad659d8f6623e4ab8ac94687a8586ea83a) - **docs:** update Markdown equation elements _(by stdlib-bot)_
